@@ -6,6 +6,7 @@ export default function Home() {
     <>
       <h1>GIT test</h1>
       <h2>ALWAYS create a new branch from MAIN</h2>
+      
     </>
   );
 }
